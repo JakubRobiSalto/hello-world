@@ -2,4 +2,4 @@
 
 My first repo
 
-I love :pizza
+I love 🍕
